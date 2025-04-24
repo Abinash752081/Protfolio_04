@@ -1,0 +1,167 @@
+
+## Abinash Mishra - Creative Web Developer from India
+
+---
+
+### #---------- HEADER ----------#
+
+**Abinash Mishra**
+
+aria-label = Toggle Menu  
+
+`<ion-icon name="menu-outline"></ion-icon>`  
+`<ion-icon name="close-outline"></ion-icon>`  
+
+- Home  
+- About  
+- Portfolio  
+- Skills  
+- Contact  
+- Blog  
+
+**Download CV**
+
+---
+
+### #---------- HERO ----------#
+
+alt = Abinash's Photo  
+
+**4**  
+Years of Success  
+
+**25+**  
+Projects Completed  
+
+`<ion-icon name="trophy"></ion-icon>`  
+
+alt = I'm a developer from India  
+
+**Hello I'm**  
+
+**Abinash Mishra**  
+
+**Creative Web Developer from India**
+
+Turning ideas into impactful digital experiences and clean, functional designs.
+
+**Get a Quote**  
+
+**About Me**
+
+---
+
+### #---------- ABOUT ----------#
+
+alt = Abinash's Photo  
+alt = Abinash's Photo  
+
+`<ion-icon name="logo-css3"></ion-icon>`  
+`<ion-icon name="logo-react"></ion-icon>`  
+`<ion-icon name="logo-nodejs"></ion-icon>`  
+
+**I'm a Developer**
+
+**I Develop Solutions that Matter**
+
+Passionate about creating intuitive and efficient web apps, I specialize in React, MERN stack, and IoT-based solutions.
+
+**Clean code. Smart design. Meaningful impact.**
+
+Explore my work and see what we can build together!
+
+**View Portfolio**
+
+---
+
+### #---------- PORTFOLIO ----------#
+
+**Portfolio**
+
+**My Projects**
+
+Crafted with precision and purpose.
+
+**TicketTrail**
+
+Event Booking System built using MERN stack.
+
+**View Project**  
+`<ion-icon name="arrow-forward"></ion-icon>`
+
+**Water Level & Rain Detection System**
+
+IoT solution using ESP8266 and ThingSpeak.
+
+**Details**
+
+---
+
+### #---------- SKILLS ----------#
+
+**My Skills**
+
+Growing Every Day  
+
+- CSS — 95%  
+- React — 90%  
+- MongoDB — 85%  
+- Node.js — 80%  
+- JavaScript — 85%  
+- IoT (ESP8266, ThingSpeak) — 80%  
+
+---
+
+### #---------- CONTACT ----------#
+
+**Let's Collaborate**
+
+**Drop Me a Line**
+
+placeholder = Name  
+placeholder = Email  
+placeholder = Message  
+
+**Submit Message**
+
+`<ion-icon name="location"></ion-icon>`  
+**Address**  
+Cuttack, Odisha, India  
+
+`<ion-icon name="mail"></ion-icon>`  
+**Email**  
+abinashmishra.dev@gmail.com  
+
+`<ion-icon name="call"></ion-icon>`  
+**Phone**  
++91 98765 43210  
+
+---
+
+### #---------- BLOG ----------#
+
+**Latest Blogs**
+
+Check out my recent posts on tech, development, and industry insights.
+
+alt = Best Practices in React Project Structure  
+
+**Web Development**
+
+**Best Practices for React Developers in 2025**
+
+---
+
+### #---------- FOOTER ----------#
+
+&copy; 2025 Abinash Mishra. All Rights Reserved  
+
+**Terms & Conditions**
+
+**Privacy Policy**
+
+---
+
+### #---------- BACK TO TOP ----------#
+
+**BACK TOP**
